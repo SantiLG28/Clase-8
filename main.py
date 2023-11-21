@@ -1,4 +1,5 @@
 import problema1
+from alumnos import alumnos
 
 
 'trabajo con varioables perminten almacenar un unico valor'
@@ -44,3 +45,6 @@ if __name__ == '__main__':
 
 
     problema1.sumar_5_enteros()
+
+    print()
+    alumnos()
