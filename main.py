@@ -1,3 +1,6 @@
+import problema1
+
+
 'trabajo con varioables perminten almacenar un unico valor'
 
 edad = 12
@@ -34,3 +37,10 @@ if __name__ == '__main__':
     lista1[0] = 1
     print()
     print(lista1)
+
+    print(lista1[3])
+
+    print()
+
+
+    problema1.sumar_5_enteros()
